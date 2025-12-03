@@ -1,0 +1,12 @@
+{
+  "name": "天能健",
+  "appid": "__UNI__857CDE4",  // 必须使用 DCloud 分配的 __UNI__ 格式 ID
+  "description": "电动车蓝牙配置工具，用于电动车控制器和仪表的蓝牙参数读取与调试",
+  "app-plus": {
+    "distribute": {
+      "ios": {
+        "bundleidentifier": "com.talenelectric"  // iOS 的 Bundle ID 在这里设置
+      }
+    }
+  }
+}
